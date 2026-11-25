@@ -1,0 +1,28 @@
+.Pokedex {
+  padding: 1rem 2rem 2rem;
+  text-align: center;
+}
+
+.Pokedex-title {
+  margin-bottom: 0.25rem;
+  color: #d32f2f;
+}
+
+.Pokedex-exp {
+  margin-top: 0;
+  color: #555;
+}
+
+.Pokedex-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.25rem;
+}
+
+.Pokedex-winner {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2e7d32;
+}
